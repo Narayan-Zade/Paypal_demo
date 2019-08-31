@@ -1,0 +1,20 @@
+[14-Jun-2019 06:44:12 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 06:51:04 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 06:59:15 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:01:42 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:13:03 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:22:45 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:45:59 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:52:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 55
+[14-Jun-2019 07:52:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 55
+[14-Jun-2019 07:54:16 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:56:23 America/Chicago] PHP Fatal error:  Call to undefined function ipn() in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 24
+[14-Jun-2019 07:56:24 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 07:58:34 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 22:46:49 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 52
+[14-Jun-2019 23:58:26 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 51
+[15-Jun-2019 00:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/views/products/index.php on line 12
+[15-Jun-2019 00:05:44 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/views/products/index.php on line 12
+[15-Jun-2019 00:10:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/views/products/index.php on line 12
+[15-Jun-2019 00:12:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/views/products/index.php on line 12
+[15-Jun-2019 00:21:36 America/Chicago] PHP Fatal error:  Call to a member function insertTransaction() on null in /home/ispeedbiz/test.ispeedbiz.com/Paypal_demo/application/controllers/Paypal.php on line 51
